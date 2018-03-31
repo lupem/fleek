@@ -70,9 +70,7 @@ header h1{ color:#666;
 }
 .cuadros {
 	text-align: center;
-	padding: 80px 10px 10px;
-	margin-left:80px;
-	margin-right:80px;
+	padding: 40px;
 	
 }
 
@@ -100,7 +98,7 @@ text-align: center;
 	
 }
 #sec-summer {
-	background-color:#39F;
+	background-color:#23415B;
 	color:#FFF;
 	padding:50px 0px;
 	
@@ -126,13 +124,10 @@ text-align: center;
 #sec-footer{
 	background-color: #666;
 	color: #FFFFFF;
-	padding: 30px 0px;
-	text-align: center;
+	padding: 30px 0px;	
 		
 }
-#sec-footer h4{
-	text-align: center;
-}
+
 #sec-footer p {
 	color:#FFF;
 	font-size:14px;
@@ -146,10 +141,7 @@ text-align: center;
 	text-decoration: none;
 	
 }
-#sec-footer a:hover { color: #39F;
-	text-decoration: none;
-	
-}
+
 #sec-copy{
 	
 	background-color:#333;
@@ -157,9 +149,8 @@ text-align: center;
 	padding: 25px 0px ;
 	text-align: center;
 }
-.colorazul{ color:#39F;
 	
-}
+
 .colorblan{ color:#FFFFFF;
 	
 }
